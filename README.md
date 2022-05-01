@@ -6,4 +6,4 @@ they will find a multitude of different products that can be created, added to, 
 The main languages used in this project include javascript, node.js, express.js, and MySQL.
 
 ## Walkthrough Video
-Video of how the project works: 
+Video of how the project works: https://drive.google.com/file/d/1u27j4EsGbcMamSQcFbe_1XE8AU9oW4nO/view
